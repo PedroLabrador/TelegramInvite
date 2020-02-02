@@ -8,10 +8,8 @@ after all done you will be able to set up the next variables.
 
 Also, you need to specify the file where the usernames are saved
 i suggest you to save then into a json file, 1 per 1 each line
-theres a users.json file included as an example (you should not 
-try to add those users), if you are not able to create the file
-contact me i'll do it for you, all this are requirements to make 
-the script work :)
+theres an 'users.json' file included as an example (you should not 
+try to add those users), all this to make the script work :)
 
 Several things i must say:
 1. The script is tested on public groups (only groups with Usernames)

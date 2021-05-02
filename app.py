@@ -92,7 +92,7 @@ with TelegramClient('session_name', api_id, api_hash) as client:
 	#try:
 	#	result = client(InviteToChannelRequest(
 	#		channel = chat,
-	#		users = ['SrPedro']
+	#		users = ['elonmusk']
 	#	))
 	#except Exception as e:
 	#	print ("An user cannot be added :(")

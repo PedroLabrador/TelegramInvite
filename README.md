@@ -23,4 +23,3 @@ Several things i must say:
 	 How do you know if users have reported you? just start a chat 
 	 with @SpamBot.
 3. This scripts makes use of "Telethon" python library.
-4. If any doubt let me know :) @SrPedro at Telegram
